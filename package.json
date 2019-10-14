@@ -27,8 +27,6 @@
   "author": "Alberto Schiabel (https://github.com/jkomyno)",
   "license": "MIT",
   "dependencies": {
-    "react": "^16.10.2",
-    "react-native": "^0.61.2",
     "usetimeout-react-hook": "^0.1.2"
   },
   "devDependencies": {
